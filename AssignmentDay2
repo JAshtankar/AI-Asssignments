@@ -1,0 +1,38 @@
+Assignment 1
+https://console.groq.com/home
+Multilingual
+ 
+1.	GPT OSS 120B
+2.	GPT OSS 20B
+3.	Llama 4 Scout
+4.	Llama 3.3 70B
+5.	Whisper Large v3
+
+https://developers.openai.com/api/docs/models/all
+1.	google/gemma-4-31b-it
+2.	z-ai/glm-5v-turbo
+3.	x-ai/grok-4.20-multi-agent
+
+
+Assignment 2:
+Model Name	Context Window	Input Token Cost (per 1M)	Output Token Cost (per 1M)
+google/gemma-4-26b-a4b-it	262K	$0.13	$0.40
+openai/gpt-oss-120b	131K	$0.039	$0.19
+meta-llama/llama-3.1-8b-instruct	16K	$0.02	$0.05
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assignment 3:
+ 
+ 
+
