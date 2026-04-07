@@ -17,9 +17,12 @@ Assignment 2:
 ------------------------------------------------------------------------------------------------------------
 Model Name	                    | Context Window | Input Token Cost (per 1M) |	Output Token Cost (per 1M)
 ------------------------------------------------------------------------------------------------------------
-google/gemma-4-26b-a4b-it       |	262K	     |       $0.13               |  	$0.40
-openai/gpt-oss-120b	            |   131K	     |       $0.039       	     |      $0.19
-meta-llama/llama-3.1-8b-instruct|	16K	         |       $0.02	             |      $0.05
+google/gemma-4-26b-a4b-it       |	262K	         |       $0.13               |  	  $0.40
+openai/gpt-oss-120b	            |   131K	       |       $0.039       	      |      $0.19
+meta-llama/llama-3.1-8b-instruct|	16K	          |       $0.02	              |      $0.05
+
+
+
 
 
  
